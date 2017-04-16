@@ -5,6 +5,9 @@ This application has been made in NodeJS, Expres, MongoDB, Mongoose, ReactJS, Re
 
 ## Steps to run
 ```
+You need to have google API_KEY and CSE_KEY(custom search engine key) in `.env` file to make the project working.
+
+
 - git clone git@github.com:raghavgarg1257/zillion-app.git
 - cd zillion-app
 
