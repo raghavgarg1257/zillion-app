@@ -7,7 +7,26 @@ This application has been made in NodeJS, Expres, MongoDB, Mongoose, ReactJS, Re
 ```
 You need to have google API_KEY and CSE_KEY(custom search engine key) in `.env` file to make the project working.
 
+To obtain CSE_KEY
+- go to https://cse.google.com/cse/all
+- click add new
+- enter some name in 'Name of the search engine'
+- click advanced options
+- select 'Thing'
+- click create 
+- now your CSE_KEY has been generated.
+- click in control panel
+- turn on the 'Image Search'
+- click the 'Seach Engine ID' button and copy the key.
 
+To obtain API_KEY
+- go to https://console.developers.google.com
+- create new project and copy new API_KEY
+
+add both of these keys in ".env"
+
+
+Clone Project
 - git clone git@github.com:raghavgarg1257/zillion-app.git
 - cd zillion-app
 
