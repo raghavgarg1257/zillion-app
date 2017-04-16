@@ -1,5 +1,5 @@
 # Zillion Test App
-Problem Statement has been uploaded in this repo above.
+Problem Statement has been uploaded in this repo [PDF](https://github.com/raghavgarg1257/zillion-app/blob/master/Problem-Statement.pdf).
 
 This application has been made in NodeJS, Expres, MongoDB, Mongoose, ReactJS, ReduxJS, Redux Thunk, React Router.
 
