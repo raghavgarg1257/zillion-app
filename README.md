@@ -14,7 +14,7 @@ To start server
 - npm i
 - npm start #this will start the server
 
-To start client
+To start client(in new terminal)
 - cd client
 - npm i
 - npm start #this will start the react app - client
