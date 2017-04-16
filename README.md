@@ -1,7 +1,7 @@
 # Zillion Test App
 Problem Statement has been uploaded in this repo [PDF](https://github.com/raghavgarg1257/zillion-app/blob/master/Problem-Statement.pdf).
 
-This application has been made in NodeJS, Expres, MongoDB, Mongoose, ReactJS, ReduxJS, Redux Thunk, React Router.
+This application has been made in NodeJS, Express, MongoDB, Mongoose, ReactJS, ReduxJS, Redux Thunk, React Router.
 
 ## Steps to run
 ```
@@ -15,7 +15,7 @@ To obtain CSE_KEY
 - select 'Thing'
 - click create 
 - now your CSE_KEY has been generated.
-- click in control panel
+- click on control panel
 - turn on the 'Image Search'
 - click the 'Seach Engine ID' button and copy the key.
 
