@@ -3,6 +3,12 @@ Problem Statement has been uploaded in this repo [PDF](https://github.com/raghav
 
 This application has been made in NodeJS, Express, MongoDB, Mongoose, ReactJS, ReduxJS, Redux Thunk, React Router.
 
+## Pre-Requisites
+- NodeJS installed
+- Globally installed nodemon
+- Mongod service running
+
+
 ## Steps to run
 ```
 You need to have google API_KEY and CSE_KEY(custom search engine key) in `.env` file to make the project working.
